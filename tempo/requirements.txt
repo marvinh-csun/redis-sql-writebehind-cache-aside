@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+pymysql
+gunicorn
+python-dotenv
+jsonify
+Flask-JSON
+redis
+flask-cors
+marshmallow-sqlalchemy
